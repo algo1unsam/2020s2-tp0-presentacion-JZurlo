@@ -3,6 +3,4 @@
 ## Estudiante: Julian Zurlo
 
 
-![](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
-
-Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
+![](https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F102651534_942964039488257_5269573946540161240_n.jpg%3Foh%3D3bebc4a6ac4f1fb0e859b3d7647e16dd%26oe%3D5F2DFDE8&t=l&u=5491137889905%40c.us&i=1591245386&n=edLdmf1jJw0geiQbzZWyplQ5cZ7Qdg9NsDKp54hSGIo%3D)
